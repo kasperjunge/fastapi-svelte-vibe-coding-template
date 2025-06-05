@@ -1,0 +1,1 @@
+from backend.main import main # noqa: F401
